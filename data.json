@@ -1,0 +1,22 @@
+  [ 
+  {
+    "id": "1000",
+    "picture": "https://www.cookingclassy.com/wp-content/uploads/2018/08/tandoori-chicken-11.jpg",
+    "name": "Chicken tandoori"
+  },
+  {
+    "id": "1001",
+    "picture": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-1.jpg",
+    "name": "Panner butter masala"
+  },
+  {
+    "id": "1002",
+    "picture": "https://images.indulgexpress.com/uploads/user/imagelibrary/2019/8/1/original/Biryanifest.jpg",
+    "name": "Briyani"
+  },
+  {
+    "id": "1003",
+    "picture": "https://static.toiimg.com/thumb/64696930.cms?width=1200&height=900",
+    "name": "Parotta shawarma"
+  }
+]
